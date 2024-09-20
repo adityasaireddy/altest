@@ -1,0 +1,51 @@
+.inftitle {
+  font-size: 50px;
+  color: rgb(255, 183, 0);
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  font-family: "Space Grotesk";
+}
+
+.main-sm1 {
+  background-color: rgb(255, 255, 255);
+}
+
+.wrapper {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 5rem;
+}
+
+.item1 {
+  height: 100px;
+  width: 200px;
+  background-color: red;
+}
+
+.item2 {
+  height: 100px;
+  width: 300px;
+}
+
+.item3 {
+  height: 100px;
+  width: 100px;
+}
+
+.item4 {
+  height: 100px;
+  width: 200px;
+  background-color: rgb(215, 208, 0);
+}
+
+.item5 {
+  height: 100px;
+  width: 200px;
+  background-color: rgb(215, 208, 0);
+}
